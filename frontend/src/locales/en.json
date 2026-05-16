@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "welcome": "Welcome to Smart Hospital Queue Management",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "book_appointment": "Book Appointment",
+    "my_appointments": "My Appointments",
+    "queue_status": "Queue Status",
+    "logout": "Logout",
+    "department": "Department",
+    "doctor": "Doctor",
+    "date": "Date",
+    "time": "Time",
+    "token": "Token",
+    "status": "Status"
+  }
+}

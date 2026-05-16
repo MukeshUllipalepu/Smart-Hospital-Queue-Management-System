@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "welcome": "स्मार्ट अस्पताल कतार प्रबंधन में आपका स्वागत है",
+    "login": "लॉग इन",
+    "register": "पंजीकरण",
+    "dashboard": "डैशबोर्ड",
+    "book_appointment": "अपॉइंटमेंट बुक करें",
+    "my_appointments": "मेरे अपॉइंटमेंट",
+    "queue_status": "कतार की स्थिति",
+    "logout": "लॉग आउट",
+    "department": "विभाग",
+    "doctor": "डॉक्टर",
+    "date": "तारीख",
+    "time": "समय",
+    "token": "टोकन",
+    "status": "स्थिति"
+  }
+}
